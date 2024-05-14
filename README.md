@@ -5,7 +5,7 @@ This will be an ongoing project and I am hoping to cover the following:
 
 * Linear Regression ✔️
 * Polynomial Regression
-* Logistic Regression 
+* Logistic Regression ✔️
 * Support Vector Machines 
 * K-Nearest Neighboor ✔️
 * Naive Bayes
